@@ -42,6 +42,24 @@ The analysis was performed using the following tools:
 - Seaborn – Statistical visualization
 - Plotly – Interactive visualizations
 
+## Data Preprocessing
+
+- The column names and records were translated to English
+- Processed missing values
+- Replaced inconsistent data
+- Removed nonessential datas
+- Derivation of new columns - NLR,MLR
+- Convertion of datatype
+
+## Data Explorations
+
+- Done in the format of univariate, bivariate and multivariate
+- Using groupby,filter, pivotvtables and aggregations for analysis
+- Heatmap- correlations of clinical parameters
+- Pie Chart - Gender and antibiotic distribution
+- Bar Chart - To compare mortality rate and vitals
+- Box Plots - To analyse sepsis severity
+
 ## Key Insights
 
 - Patients with multiple comorbidities tend to have higher mortality risk and longer ICU stays.
@@ -50,3 +68,8 @@ The analysis was performed using the following tools:
 - Abnormal vital signs, particularly elevated respiratory rate and reduced blood pressure, indicate worsening patient condition.
 - NEWS scoring system appears to be more sensitive in predicting sepsis severity compared to qSOFA and SIRS.
 - Certain antibiotic-resistant organisms are associated with longer hospital stays and potential treatment challenges
+
+## How to Use
+
+- First download or clone this repository
+- 
