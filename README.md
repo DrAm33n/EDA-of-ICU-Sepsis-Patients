@@ -72,9 +72,7 @@ The analysis was performed using the following tools:
 ## Files Included
 
 - ICU_Sepsis_Dataset.xlsx – Raw Data
-- Translated_ICU_Sepsis_Dataset.xlsx-Raw Data translated to English
-- EDA_ICU_Sepsis_Dataset.xlsx - Processed and structured Dataset
-- EDA_Sepsis_ICU_Patients.ipynb - Puthon file with Data analysis and visualisation 
+- EDA_Sepsis_ICU_Patients.ipynb - Python file with Data analysis and visualisation 
 
 ## How to Use
 
