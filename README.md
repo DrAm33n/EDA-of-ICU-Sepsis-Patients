@@ -69,7 +69,15 @@ The analysis was performed using the following tools:
 - NEWS scoring system appears to be more sensitive in predicting sepsis severity compared to qSOFA and SIRS.
 - Certain antibiotic-resistant organisms are associated with longer hospital stays and potential treatment challenges
 
+## Files Included
+
+- ICU_Sepsis_Dataset.xlsx – Raw Data
+- Translated_ICU_Sepsis_Dataset.xlsx-Raw Data translated to English
+- EDA_ICU_Sepsis_Dataset.xlsx - Processed and structured Dataset
+- EDA_Sepsis_ICU_Patients.ipynb - Puthon file with Data analysis and visualisation 
+
 ## How to Use
 
-- First download or clone this repository
-- 
+- Download or clone this repository
+- Open the Excel file for data reference
+- Open ipynb file to access the data analysis and visualisation
