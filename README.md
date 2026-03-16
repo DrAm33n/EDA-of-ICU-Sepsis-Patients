@@ -44,21 +44,24 @@ The analysis was performed using the following tools:
 
 ## Data Preprocessing
 
-- The column names and records were translated to English
+- Translated column names and records into English
 - Processed missing values
-- Replaced inconsistent data
-- Removed nonessential datas
-- Derivation of new columns - NLR,MLR
-- Convertion of datatype
-
+- Replaced inconsistent data entries
+- Removed non-essential data
+- Derived new clinical indicators such as NLR (Neutrophil-to-Lymphocyte Ratio) and MLR (Monocyte-to-Lymphocyte Ratio)
+- Converted variables to appropriate data types
+  
 ## Data Explorations
 
-- Done in the format of univariate, bivariate and multivariate
-- Using groupby,filter, pivotvtables and aggregations for analysis
-- Heatmap- correlations of clinical parameters
-- Pie Chart - Gender and antibiotic distribution
-- Bar Chart - To compare mortality rate and vitals
-- Box Plots - To analyse sepsis severity
+- The exploratory analysis was conducted using univariate, bivariate, and multivariate analysis techniques.
+
+Key analytical methods included:
+
+- GroupBy, filtering, pivot tables, and aggregations
+- Heatmaps – Correlation analysis of clinical parameters
+- Pie charts – Distribution of gender and antibiotic usage
+- Bar charts – Comparison of mortality rates and vital signs
+ -Box plots – Analysis of sepsis severity and biomarker distribution
 
 ## Key Insights
 
@@ -71,11 +74,12 @@ The analysis was performed using the following tools:
 
 ## Files Included
 
-- ICU_Sepsis_Dataset.xlsx – Raw Data
-- EDA_Sepsis_ICU_Patients.ipynb - Python file with Data analysis and visualisation 
+- ICU_Sepsis_Dataset.xlsx – Raw dataset
+
+- EDA_Sepsis_ICU_Patients.ipynb – Jupyter Notebook containing data analysis and visualizations
 
 ## How to Use
 
 - Download or clone this repository
-- Open the Excel file for data reference
-- Open ipynb file to access the data analysis and visualisation
+- Open ICU_Sepsis_Dataset.xlsx to explore the raw dataset
+- Open EDA_Sepsis_ICU_Patients.ipynb in Jupyter Notebook to view the complete data analysis and visualizations
