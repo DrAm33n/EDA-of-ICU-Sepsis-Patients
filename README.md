@@ -75,6 +75,7 @@ Key analytical methods included:
 ## Files Included
 
 - ICU_Sepsis_Dataset.xlsx – Raw dataset
+  **Source:** https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UAJX1D
 
 - EDA_Sepsis_ICU_Patients.ipynb – Jupyter Notebook containing data analysis and visualizations
 
